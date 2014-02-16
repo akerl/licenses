@@ -1,0 +1,145 @@
+Creative Commons Corporation is not a law firm and does not provide legal services or advice.  Distribution of this Public License does not create an attorney-client relationship.  Creative Commons provides this Public License and all related information on an “as-is” basis.  Creative Commons makes no warranties regarding this Public License, any related information, or the Licensed Work (defined below), and disclaims liability for damages resulting from their use.
+
+Public License
+
+This document is a Creative Commons Public License ("Public License"), providing a standard set of terms and conditions under which creators or other rights holders may share their works with the public.  Capitalized terms shall have the meanings defined herein and below.
+
+The Licensed Work is made available under this Public License.  This Public License grants You permission to use the Licensed Work in ways otherwise reserved to Licensor by copyright, author’s rights, neighboring rights (including database rights) and certain ancillary rights.  All other uses of the Licensed Work are outside the scope of this Public License and are in no way restricted by its terms and conditions.  These include uses permitted by any applicable limitation or exception to copyright, or where the Licensed Work or any of its elements are in the public domain for any reason.  This Public License is for use by anyone, without geographic or jurisdictional limit and without regard to the legal status of Licensor or You.
+
+By exercising any rights to the Licensed Work provided here, You accept and agree to be bound by the terms of this Public License.  To the extent this Public License may be considered a contract, Licensor grants You the rights under this Public License in consideration of acceptance of such terms and conditions by You.
+
+This Public License does not affect third party rights in the Licensed Work.  Additionally, You are responsible for complying with other laws that may apply to use of the Licensed Work by You.  Such laws may include laws governing patents, trademarks, privacy, personality and publicity rights, data protection laws, and laws protecting against fraud, misrepresentation and similar, all of which are outside the scope of this Public License.
+
+
+Section 1 – Definitions.
+
+(a) Adaptation means a work derived from or based upon the Licensed Work, in which the Licensed Work is adapted, arranged, altered, translated, transformed, recast or otherwise modified in a manner that requires permission under Applicable Copyright and Neighboring Rights. For purposes of this Public License and without regard to Applicable Copyright and Neighboring Rights, 
+
+(1)	assembling the Licensed Work and one or more separate works into a collective whole is not an Adaptation,
+(2)	making modifications technically necessary to exercise rights granted under this Public License is not an Adaptation, and
+(3)	where the Licensed Work is a musical work, performance or recording, the synchronization of the Licensed Work in timed-relation with a moving image is an Adaptation.
+
+(b) Applicable Copyright and Neighboring Rights means copyright and performance, broadcast, phonogram and database rights that apply to use of the Licensed Work by You; however, for purposes of this Public License, Applicable Copyright and Neighboring Rights do not include moral rights of authors or the ancillary rights described in Section 2(b)(1)(ii) below.
+
+(c) License Conditions means the high-level conditions set forth in Section 3 (Attribution, NonCommercial, and ShareAlike).
+
+(d) Licensed Work means the literary, artistic or other work, content, material or production that is protected under Applicable Copyright and Neighboring Rights and is offered by Licensor under this Public License.  The Licensed Work may be accompanied by or integrated with other work, content or material not covered by this Public License, such as public domain content or works owned by third parties.
+
+(e) Licensor means the rights holder that offers the Licensed Work under this Public License.
+
+(f)	NonCommercial means not primarily intended for or directed towards commercial advantage or private monetary compensation.  For purposes of this Public License, the exchange of the Licensed Work by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
+
+(g) Share means to communicate or make available to the public by the exercise of rights granted under this Public License. 
+
+(h) You means an individual or entity exercising rights under this Public License.
+
+Section 2 – License.
+
+(a)  Grant. Subject to the terms and conditions of this Public License, Licensor hereby grants You a worldwide, royalty-free, non-exclusive license to:
+
+(1)	reproduce, distribute, perform, display and communicate the Licensed Work,
+(2)	create, reproduce, distribute, perform, display and communicate Adaptations, and
+(3)	where the Licensed Work is a database, in addition to the above, extract and reuse contents of the Licensed Work,
+		
+in each case, however, only to the extent Licensor holds such rights and permission is required under Applicable Copyright and Neighboring Rights.  For the avoidance of doubt:
+
+(i) You can make any and all uses of the Licensed Work for which permission is not required under Applicable Copyright and Neighboring Rights without regard to this Public License.
+(ii) The rights and license granted under this Public License are perpetual for the duration of Applicable Copyright and Neighboring Rights in the Licensed Work, subject to earlier termination as provided below.
+(iii) You may exercise the rights and license granted under this Public License in any medium or format whether now known or hereafter created.
+(iv) You may not sublicense the Licensed Work.  Instead, every recipient of the Licensed Work or an Adaptation receives a license to use the Licensed Work under (and subject to) the terms and conditions of this Public License.
+
+(b)	 Other rights.
+
+(1)	To the extent possible and necessary to allow You to reasonably exercise the rights granted to You under this Public License, Licensor waives or, where not permissible, agrees not to assert:
+
+(i) Licensor’s moral rights in the Licensed Work; however, Licensor retains all other moral rights Licensor has in the Licensed Work; and
+(ii) other ancillary rights Licensor has in the Licensed Work; however, Licensor retains all other ancillary rights Licensor has in the Licensed Work and, for the avoidance of doubt, patent, trademark, privacy, personality and publicity rights shall not be considered ancillary rights.
+
+(2)	To the extent possible and necessary to allow You to exercise the rights granted to You under this Public License, Licensor waives the right to collect royalties from You, both individually and through any voluntary collecting society or any statutory or compulsory licensing scheme; however, where the right to collect royalties through any voluntary collecting society or any statutory or compulsory licensing scheme exists, applies and cannot be waived by Licensor, such rights are retained.
+
+(c)  Other Licensor Rights; Reservation.  All rights not expressly granted or waived by Licensor pursuant to subparagraphs (a) and (b), above, are hereby reserved.  For the avoidance of doubt and without limitation, nothing in this Public License shall constitute or be considered a grant of permission to assert, imply or otherwise represent that You are, or that any use by You of the Licensed Work or an Adaptation is, connected with, sponsored, endorsed or granted official status by Licensor.
+
+Section 3 - License Conditions.  The rights granted in Section 2(a) of this Public License are expressly made subject to and limited by the following conditions: 
+
+(a) Attribution.
+
+(1)  If You Share the Licensed Work or an Adaptation, You must provide, in any reasonable manner based on the medium or means You are using, the following when supplied:
+
+(i) the name or pseudonym of the author,
+(ii) the name of any party or parties designated by Licensor for attribution (“Attribution Parties”),
+(iii) the title,
+(iv) the copyright notice,
+(v) to the extent reasonably practicable, a Uniform Resource Identifier (“URI”) associated with or a hyperlink to the Licensed Work, but only if it references a copyright notice or licensing information,
+(vi) a URI associated with or a hyperlink to this Public License, and
+(vii) any notices, disclaimers and warranties that refer to this Public License.
+
+If the resource referenced by the URI in (v) includes the information contained in (i) – (iii), above, You need only include the URI to satisfy those requirements.  You must, to the extent reasonably practicable, remove the information specified in (i) – (iii) above if requested by Licensor.
+
+(2)  If You Share an Adaptation, You must also take reasonable steps to:
+
+(i) indicate clearly that the Licensed Work has been changed, and
+(ii) indicate that the Licensed Work is offered under (and subject to) the terms and conditions of this Public License.
+
+(3)  [If You Share the Licensed Work, You may not impose any effective technological measures on the Licensed Work that restrict the ability of a recipient of the Licensed Work from You to exercise the rights granted to that recipient under the terms of this Public License.]
+
+CC note: This provision is bracketed to denote that it requires additional public input, including further development of use cases.  Proposals will be discussed during the public comment period on v4.0d1.
+
+(b) NonCommercial.  You may exercise the rights granted under this Public License for NonCommercial purposes only.
+
+(c) ShareAlike.  If you Share an Adaptation,
+
+(1) You must release it under the terms of one of the following:
+
+(i) this Public License,
+(ii) a later version of this Public License containing the same License Conditions, [or
+(iii) a Creative Commons ported license (either this or a later license version) containing the same License Conditions as this Public License,]
+
+ (whichever license is chosen is the “Adaptation License”).
+
+CC note:  Alternative (iii) is bracketed in this draft because the question of porting for 4.0 is undecided and will be subject to discussion later in the 4.0 process.
+
+(2)  You must include a copy of (or the URI for or a hyperlink to) the Adaptation License, and
+
+(3)  [You may not impose any effective technological measures on the Adaptation that restrict the ability of a recipient of the Adaptation from You to exercise the rights granted to that recipient under the terms of the Adaptation License.]
+
+CC note: This provision is bracketed to denote that it requires additional public input, including further development of use cases.  Proposals will be discussed during the public comment period on v4.0d1.
+
+Section 4 – Disclaimer and Limitation on Liability.  To the greatest extent permissible, Licensor offers the Licensed Work as-is and makes no representations or warranties of any kind concerning the Licensed Work, express, implied, statutory or otherwise; including, without limitation, warranties of title, merchantability, fitness for a particular purpose, non infringement, the absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable.
+
+Section 5 – Term and Termination.  
+
+(a)	If You fail to comply with any conditions of this Public License, this Public License will terminate automatically, and You must get express approval from Licensor if you seek new rights to use the Licensed Work under this Public License.  Unless previously terminated in accordance with the foregoing, this Public License terminates upon expiration of Applicable Copyright and Neighboring Rights governing the Licensed Work.
+
+(b)  For the avoidance of doubt,
+
+(1)  upon termination of this Public License for failure by You to comply with any conditions, this Public License shall remain in full force and effect for third parties who received the Licensed Work or an Adaptation from You provided they remain in compliance, and
+
+(2) Licensor may elect to release the Licensed Work under different terms or to stop distributing the Licensed Work at anytime; however, that election shall not terminate this Public License.
+
+(c)  Sections TK*, TK and TK survive termination of this Public License.
+
+Section 6 – Miscellaneous.
+(a) If any provision of this Public License is deemed invalid or unenforceable, it shall not affect the validity or enforceability of the remainder of its terms, and such provision shall be automatically reformed to the minimum extent necessary to make such provision valid and enforceable.
+
+(b) No term or provision of this Public License shall be deemed waived and no failure to comply consented to unless such waiver or consent is in writing and signed by Licensor.
+
+(c) [Additional terms provision TK].
+
+CC note:  This provision requires additional public input.  Proposals will be discussed during the public comment period on v4.0d1.  Among other things, CC expects to propose a limited ability for Licensors to associate more specific warranties and disclaimers with the Licensed Work, comporting more closely with applicable law.  The related provisions currently in v3.0 (and not addressed in v4.0d1) are:
+
+Section 4(a) (and parallel provision for Adaptations in SA licenses): You may not offer or impose any terms on the Work that restrict the terms of this License or the ability of the recipient of the Work to exercise the rights granted to that recipient under the terms of the License.
+Section 8(d/e):  This License constitutes the entire agreement between the parties with respect to the Work licensed here. There are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This License may not be modified without the mutual written agreement of the Licensor and You.
+
+(d) For the avoidance of doubt, nothing in this Public License shall constitute or be considered a limitation upon or waiver of any privileges and immunities from the legal processes of any jurisdiction or authority that may apply to Licensor or You.
+
+Notice
+
+Creative Commons Corporation is not a law firm and does not provide legal services or advice.  Distribution of this Public License does not create an attorney-client relationship.  Creative Commons provides this Public License and all related information on an "as-is" basis.  Creative Commons makes no warranties regarding this Public License, any related information, or the Licensed Work, and disclaims liability for damages resulting from their use.
+
+Creative Commons is not a party to this Public License.  Notwithstanding, Creative Commons may elect to apply this Public License to materials it publishes and in those instances will be considered “Licensor” for purposes of this Public License.
+
+Except for the limited purpose of indicating to the public that the Licensed Work is licensed under this Public License or as otherwise permitted by the Creative Commons trademark policy published at http://creativecommons.org/policies, Creative Commons does not authorize the use by either party of the trademark “Creative Commons” or any other trademark or logo of Creative Commons without its prior written consent.  For the avoidance of doubt, this trademark restriction does not form part of this Public License.
+
+Creative Commons may be contacted at http://creativecommons.org/.
+
+*TK is a placeholder indicatitg that these provisions are not yet determined.
